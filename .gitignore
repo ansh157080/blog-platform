@@ -1,0 +1,15 @@
+# Node dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Uploaded images (keep .gitkeep)
+uploads/*
+!uploads/.gitkeep
+
+# Logs & temp
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
